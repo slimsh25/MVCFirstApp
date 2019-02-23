@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace SportsStore.WebUI.Controllers
 {
+    //This controller create the account 
     public class AccountController : Controller
     {
         IAuthProvider authProvider;
